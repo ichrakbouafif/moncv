@@ -1,0 +1,67 @@
+body{
+    background-color: #CCCCCC;
+}
+.page {
+    width: 780px;
+    margin: auto;
+    font-size: 18px;
+    font-family:'Source sans Pro','Calibri', 'tahoma', sans-serif ;
+    padding: 40px;
+    border: 5px solid #3388CC;
+    border-radius: 10px;
+    box-shadow: 2px 4px 3px black;
+    background-color: #FFFFFF;
+}
+.infophoto{
+    height: 250px;
+}
+.info{
+    float: left;
+}
+.photo img{
+    float: right;
+    border-radius: 50%;
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.section:hover{
+    color: #00AA00;
+}
+.section-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+#forma-gauche p{
+    margin-bottom: 37px;
+}
+#forma-droite{
+    margin-top: 45px;
+}
+#forma-droite p {
+    margin-bottom: 26px ;
+}
+#exp-gauche p {
+    margin-top: 30px;
+}
+.section-droite{
+    margin-left: 200px;
+    margin-top: 37px;
+}
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+strong{
+    font-size: 35px;
+    color: darkslateblue;
+    
+}
+h2{
+    font-size: 30px;
+    color: darkslateblue;
+    text-transform: uppercase;
+    border-bottom: 3px solid #3388DD;
+}
